@@ -21,7 +21,7 @@
   },
   { 
     "id": 3,
-    "icon": "fa fa-file-text",
+    "icon": "fa fa-play-circle",
     "slug": "tema-2",
     "title": "2. Estructura y cronograma de un proyecto audiovisual",
     "path": "pages/tema-2.html"     

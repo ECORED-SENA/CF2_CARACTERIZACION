@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="AA2 - Actividad didáctica" />
+              <option name="title_text" value="SENA - Actividad Did&amp;#225;ctica 01" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -76,7 +76,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1205,7 +1205,7 @@
         <slidelink slideid="_player.6iPYYXYye9N" displaytext="Escena sin título" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6iPYYXYye9N.60B7h4FKhhU" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.5ad6MzQRjhx" displaytext="base" expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.5we6hgflLJU" displaytext="Arrastrar y soltar coincidencias" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
